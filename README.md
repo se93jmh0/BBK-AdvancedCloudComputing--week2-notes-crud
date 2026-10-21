@@ -120,3 +120,9 @@ Example:
 
     {"detail":"Note not found"}
     $
+
+### Automated
+
+To run all the unit tests, simply:
+
+    pytest -v --cov

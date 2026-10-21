@@ -1,2 +1,6 @@
 fastapi==0.141.1
+httpx2
+pyrefly
+pytest
+pytest-cov
 uvicorn==0.52.4
